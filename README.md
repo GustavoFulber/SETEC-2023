@@ -1,5 +1,6 @@
 Avalie o professor: https://docs.google.com/forms/d/e/1FAIpQLSc6TD9479DWJJcot6CXp3MXhbGFUYR-1JmTpWln3UP8dyljDA/viewform?usp=sf_link
 
+Modelo de projeto DDD com SQRS: https://github.com/IldarPrintsev/Evento
 
 Projeto API de Mensagens em C# com .NET 7
 Este projeto tem como objetivo criar uma API de mensagens usando C# e .NET 7. A API será capaz de enviar e receber mensagens, bem como autenticar usuários usando JWT.
